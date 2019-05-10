@@ -39,7 +39,7 @@ const Nav = () => (
       </p>
       <ul className="actions">
         <li>
-          {window.location.pathname !== `${BASE_PATH}/resume` ? (
+          {window.location.pathname !== `${BASE_PATH}resume` ? (
             <Link to="/resume" className="button">
               Learn More
             </Link>
