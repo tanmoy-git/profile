@@ -4,29 +4,29 @@ const data = [
     title: "User profiling",
     subtitle: "Propertyguru",
     link: "",
-    image: "/images/projects/projectsimages/bigdata.jpg",
+    image: "/images/projects/projectsimages/bigdata.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
-      "User profiling based on Big Data. " +
-      "Details are available upon request"
+      "Locked due to company non-disclosure agreement. User profiling based on Big Data. " +
+      "Details may not be available upon request"
   },
   {
     title: "Home Loan Pre Approval",
     subtitle: "Propertyguru",
     link: "",
-    image: "/images/projects/projectsimages/hlpa.jpg",
+    image: "/images/projects/projectsimages/hlpa.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
-      "Home Loan pre approval for Malaysian market. " +
-      "Details are available upon request"
+      "Locked due to company non-disclosure agreement. Home Loan pre approval for Malaysian market. " +
+      "Details may not be available upon request"
   },
   {
     title: "Databox",
     subtitle: "Philips",
     link: "",
-    image: "/images/projects/projectsimages/databox.jpg",
+    image: "/images/projects/projectsimages/databox.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -37,7 +37,7 @@ const data = [
     title: "Wellcentive",
     subtitle: "Philips",
     link: "",
-    image: "/images/projects/projectsimages/wellcentive.jpg",
+    image: "/images/projects/projectsimages/wellcentive.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -48,7 +48,7 @@ const data = [
     title: "Hospital to home",
     subtitle: "Philips",
     link: "",
-    image: "/images/projects/projectsimages/h2h.jpg",
+    image: "/images/projects/projectsimages/h2h.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -59,7 +59,7 @@ const data = [
     title: "Pricing Engine",
     subtitle: "HomeLane",
     link: "",
-    image: "/images/projects/projectsimages/pricingengn.jpg",
+    image: "/images/projects/projectsimages/pricingengn.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -70,7 +70,7 @@ const data = [
     title: "OAuth2 based Authentication & Authorization server",
     subtitle: "HomeLane",
     link: "",
-    image: "/images/projects/projectsimages/Oauth2.jpg",
+    image: "/images/projects/projectsimages/Oauth2.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -81,7 +81,7 @@ const data = [
     title: "Batch as a service",
     subtitle: "Ebay",
     link: "",
-    image: "/images/projects/projectsimages/Baas.jpg",
+    image: "/images/projects/projectsimages/Baas.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -93,7 +93,7 @@ const data = [
     title: "Stock market predictor based on Machine learning and ANN",
     subtitle: "Undergraduate Project",
     link: "",
-    image: "/images/projects/projectsimages/ann.jpg",
+    image: "/images/projects/projectsimages/ann.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -105,7 +105,7 @@ const data = [
     title: "Control of a mobile embedded robot, using GPRS",
     subtitle: "Undergraduate Project",
     link: "",
-    image: "/images/projects/projectsimages/robot.jpg",
+    image: "/images/projects/projectsimages/robot.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
@@ -118,7 +118,7 @@ const data = [
     title: "Laser based human machine interface for remote computer operaions",
     subtitle: "Undergraduate Project",
     link: "",
-    image: "/images/projects/projectsimages/laser.jpg",
+    image: "/images/projects/projectsimages/laser.png",
     date:
       "Image is only for illustration purpose, actual design and implementation differs",
     desc:
