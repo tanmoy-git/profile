@@ -100,7 +100,7 @@ export const skills = [
     category: ["Web Development", "Languages", "Javascript"]
   },
   {
-    title: "GIT",
+    title: "Git",
     compentency: 8,
     category: ["Web Development", "Languages", "Javascript"]
   },

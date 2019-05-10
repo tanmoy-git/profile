@@ -14,7 +14,7 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2>Projects</h2>
-          <p>Please note the details provided here are abiding by the non-disclosure agreemet of the companies</p>
+          <p>Please note: the details provided here are abiding by the non-disclosure agreemet of the companies</p>
           <p>No Confidential Information was/ is/ will be revealed</p>
         </div>
       </header>

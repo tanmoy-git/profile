@@ -63,7 +63,7 @@ const Nav = () => (
         ))}
       </ul>
       <p className="copyright">
-        &copy; Tanmoy Bhattacahrjee <Link to="/">mldangelo.com</Link>.
+        &copy; Tanmoy Bhattacahrjee < Link to="tanmoy-git.github.io">tanmoy-github</Link>.
       </p>
     </section>
   </section>
