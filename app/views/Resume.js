@@ -9,6 +9,7 @@ import Experience from "../components/Resume/Experience";
 import Skills from "../components/Resume/Skills";
 import Courses from "../components/Resume/Courses";
 import References from "../components/Resume/References";
+import SaveAlt from "@material-ui/icons/SaveAlt";
 
 import courses from "../data/resume/courses";
 import degrees from "../data/resume/degrees";
@@ -28,16 +29,17 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2>
-            <Link to="resume">Resume</Link>
-          </h2>
-          <div className="link-container">
-            {sections.map(sec => (
-              <h4 key={sec}>
-                <a href={`#${sec.toLowerCase()}`}>{sec}</a>
-              </h4>
-            ))}
-          </div>
+          <h2>Resume</h2>
+            <div className="link-container side-by-side">
+              {sections.map(sec => (
+                <h4 key={sec}>
+                  <a href={`#${sec.toLowerCase()}`}>{sec}</a>
+                </h4>
+              ))}
+            </div>
+            <a href="https://drive.google.com/file/d/14oJZCOdf6G5hLovhhQ0auu_zyfP-v1sR/view?usp=sharing" className="pull-right side-by-side" target="_blank">
+              PDF &nbsp;<SaveAlt />
+            </a>
         </div>
       </header>
       <Experience data={positions} />

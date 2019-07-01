@@ -17,6 +17,14 @@ const data = [
     label: "Projects"
   },
   // {
+  //   path: "/achievements",
+  //   label: "Achievements"
+  // },
+  // {
+  //   path: "/certifications",
+  //   label: "Certifications"
+  // },
+  // {
   //   path: '/stats',
   //   label: 'Stats',
   // },

@@ -7,7 +7,10 @@ import Index from "./views/Index";
 import About from "./views/About";
 import Projects from "./views/Projects";
 import Resume from "./views/Resume";
-import Stats from "./views/Stats";
+import Certifications from "./views/Certifications";
+import Achievements from "./views/Achievements";
+//import Stats from "./views/Stats";
+
 import Contact from "./views/Contact";
 
 import NotFound from "./views/NotFound";
@@ -24,6 +27,8 @@ ReactDOM.render(
       {/* <Route path="/stats" component={Stats} /> */}
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
+      {/* <Route path="/achievements" component={Achievements} /> */}
+      {/* <Route path="/certifications" component={Certifications} /> */}
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>

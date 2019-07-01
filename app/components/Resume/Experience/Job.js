@@ -20,7 +20,7 @@ const Job = ({ data }) => (
           Tech Stack : {point.techstack}
           <br />
           <a href={point.producturl} target="_blank">
-            {point.producturl}
+            {point.productName}
           </a>
         </li>
       ))}
