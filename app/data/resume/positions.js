@@ -1,23 +1,30 @@
 const positions = [
   {
     company: "PropertyGuru",
-    position: "Full Stack Software Engineer",
+    position: "Sr Individual Contributor (Full Stack)",
     link: "https://www.propertyguru.com.sg/",
     daterange: "February 2019 - Present",
     points: [
+      {
+        product:
+          "Design and implemetation of customer, listing and agent profiling for logged in and non logged in users based on Google Cloud and Segment BigData Solutions",
+        techstack: "BigQuery, BigTable, CloudFunctions, PubSub, Kubernetes, Docker, Redis, MongoDB, NodeJS",
+        producturl: "",
+        productName: ""
+      },
+      {
+        product:
+          "Realtime Event Streaming service for Client and server side tracking of user activities for targetted campaigning",
+        techstack: "GO, Cloud Storage, PubSub, BigTable",
+        producturl: "",
+        productName: ""
+      },
       {
         product:
           "Design and implementation of end to end solutions (backend & frontend) for Home loan pre approval project in Malaysian market",
         techstack: "PHP, MySql, JavaScript, HTML, CSS, WordPress",
         producturl: "https://propertyguru.com.my/own-your-home",
         productName: "Own your home"
-      },
-      {
-        product:
-          "Design and implemetation of customer profiling for non-subscribed users based on Google Cloud BigData Solutions",
-        techstack: "BigQuery, BigTable, CloudFunctions, NodeJS",
-        producturl: "",
-        productName: ""
       },
       {
         product:

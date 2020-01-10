@@ -37,7 +37,7 @@ const Resume = () => (
                 </h4>
               ))}
             </div>
-            <a href="https://drive.google.com/file/d/1b10kSglV5nWVieoHZKKyE1z-gAtsCb0J/view?usp=sharing" className="pull-right side-by-side" target="_blank">
+            <a href="https://drive.google.com/file/d/10mUaVaa-NAt-NxrPkUA8IdmFcvwrfcsm/view?usp=sharing" className="pull-right side-by-side" target="_blank">
               PDF &nbsp;<SaveAlt />
             </a>
         </div>
