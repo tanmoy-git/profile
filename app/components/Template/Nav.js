@@ -24,18 +24,18 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Tanmoy. I like building software solutions. I graduated
+        Hi, I&apos;m Tanmoy. I like architecting and coding software solutions. I graduated
         from{" "}
         <a href="http://psgtech.edu/" target="_blank">
           PSG Tech
         </a>{" "}
         in 2013, and since then, I am serving the ever expanding Corporate IT
-        sector. Currently appointed as a Full Stack software engineer at{" "}
+        sector. Currently appointed as a Technical Team Lead at{" "}
         <a href="https://www.propertyguru.com.sg/">PropertyGuru</a>. Before
-        PropertyGuru I was at{" "}
+        PropertyGuru, I was at{" "}
         <a href="https://www.usa.philips.com/healthcare">Philips Healthcare</a>,{" "}
         <a href="https://www.homelane.com/">HomeLane</a> and{" "}
-        <a href="https://www.ebay.com/">Ebay</a>.
+        <a href="https://www.ebay.com/">Ebay & Paypal</a>.
       </p>
       <ul className="actions">
         <li>

@@ -22,7 +22,7 @@ const getDiff = () => {
   const day = 1000 * 60 * 60 * 24;
 
   const days = Math.floor(diff / day);
-  const months = Math.floor(days / 31);
+  const months = Math.floor(days / 30);
   const years = Math.floor(months / 12);
 
   return `(${years}  years & ${months - years * 12} months)`;

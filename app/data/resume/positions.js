@@ -1,13 +1,76 @@
 const positions = [
   {
     company: "PropertyGuru",
-    position: "Sr Individual Contributor (Full Stack)",
+    position: "Technical Team Lead, Asia",
     link: "https://www.propertyguru.com.sg/",
     daterange: "February 2019 - Present",
     points: [
       {
         product:
-          "Design and implemetation of customer, listing and agent profiling for logged in and non logged in users based on Google Cloud and Segment BigData Solutions",
+          "Listing Feedback to improve the quality of the listings for our consumers",
+        techstack: "NodeJs, TypeScript, MongoDb, Docker, kubernetes, JavaScript",
+        producturl: "https://www.propertyguru.com.sg/listing/23056615/for-sale-high-park-residences#listing-feedback-desktop",
+        productName: "Listing Feedback"
+      },
+      {
+        product:
+          "New listing performance data insights for agents, to increase visibility into their business",
+        techstack: "BigQuery, Airflow, Kubernetes, Docker, Redis, MongoDB, NodeJS, React",
+        producturl: "http://help.propertyguru.com.my/en/articles/2596023-listing-performance-insights",
+        productName: "Listing Performance Insight for Agents"
+      },
+      {
+        product:
+          "New Search filter for consumer website to provide consumers with better results",
+        techstack: "Javascript, PHP, MySql",
+        producturl: "https://www.propertyguru.com.sg/property-for-rent?market=residential",
+        productName: "New Search Experience"
+      },
+      {
+        product:
+          "Integration of whatsapp desktop for consumers for submitting leads easily",
+        techstack: "Javascript, PHP, MySql",
+        producturl: "https://www.propertyguru.com.sg/listing/23553599/for-rent-yong-an-park",
+        productName: "Whatsapp Desktop for Lead Submission"
+      },
+      {
+        product:
+          "Google One Tap sign in for seamless user sign in/ sign up flow",
+        techstack: "Javascript, PHP, MySql",
+        producturl: "",
+        productName: ""
+      },
+      {
+        product:
+          "Bahasa Melayu support for PropertyGuru Malaysia website",
+        techstack: "Javascript, PHP, MySql",
+        producturl: "https://www.propertyguru.com.my/bm",
+        productName: "Bahasa Melayu support for Propertyguru Malaysia"
+      },
+      {
+        product:
+          "Central service for communication (email, SMS) with multiple gateway support over REST, increased reusability and reduced effort of integration of communication channels in different microservices ",
+        techstack: "NodeJs, TypeScript, MongoDb, Braze, AWS SES, Nexmo",
+        producturl: "",
+        productName: ""
+      },
+      {
+        product:
+          "Single Microservice to control and manage users’ preferences across all countries and locales",
+        techstack: "NodeJs, TypeScript, MongoDb, Braze",
+        producturl: "",
+        productName: ""
+      },
+      {
+        product:
+          "Registration service for offline event attendees, with management, tracking and campaigning support ",
+        techstack: "NodeJs, TypeScript, MongoDb, Braze",
+        producturl: "",
+        productName: ""
+      },
+      {
+        product:
+          "Design and implemetation of customer, listing and agent profiling for logged in and non logged in users based on Google Cloud, Segment and Braze BigData Solutions",
         techstack: "BigQuery, BigTable, CloudFunctions, PubSub, Kubernetes, Docker, Redis, MongoDB, NodeJS",
         producturl: "",
         productName: ""
